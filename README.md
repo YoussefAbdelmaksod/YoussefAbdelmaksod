@@ -117,9 +117,24 @@ Also: the coffee is non-negotiable. ☕
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YoussefAbdelmaksod&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=prs,issues&custom_title=GitHub+Activity&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&ring_color=1f6feb" />
+<!-- Real numbers manually synced from GitHub profile — update these periodically -->
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1%2C887-58a6ff?style=for-the-badge&labelColor=161b22&logo=github&logoColor=white)
 &nbsp;
+![Contributions Last Year](https://img.shields.io/badge/Last%20Year-1%2C488-1f6feb?style=for-the-badge&labelColor=161b22&logo=github&logoColor=white)
+&nbsp;
+![Stars](https://img.shields.io/badge/Stars%20Earned-3-f0e68c?style=for-the-badge&labelColor=161b22&logo=github&logoColor=white)
+&nbsp;
+![Streak](https://img.shields.io/badge/Current%20Streak-38%20days-2ea043?style=for-the-badge&labelColor=161b22&logo=github&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img height="180" src="https://streak-stats.demolab.com?user=YoussefAbdelmaksod&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=1f6feb&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=1F6FEB&currStreakNum=ffffff&sideNums=c9d1d9" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAbdelmaksod&layout=compact&theme=github_dark&hide_border=true&langs_count=6&custom_title=Top+Languages&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
